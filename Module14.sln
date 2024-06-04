@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Module14", "Module14\Module
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ", "LINQ\LINQ.csproj", "{D31FB75A-D4A6-43AF-A47C-9447930BBEDB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectMany", "SelectMany\SelectMany.csproj", "{0857EF24-51AD-4E12-A5C8-58D5E3CF35CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SelectMany", "SelectMany\SelectMany.csproj", "{0857EF24-51AD-4E12-A5C8-58D5E3CF35CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Select", "Select\Select.csproj", "{18B2583E-8872-4FC4-A0EA-03D83FA03E71}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{0857EF24-51AD-4E12-A5C8-58D5E3CF35CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0857EF24-51AD-4E12-A5C8-58D5E3CF35CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0857EF24-51AD-4E12-A5C8-58D5E3CF35CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18B2583E-8872-4FC4-A0EA-03D83FA03E71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18B2583E-8872-4FC4-A0EA-03D83FA03E71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18B2583E-8872-4FC4-A0EA-03D83FA03E71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18B2583E-8872-4FC4-A0EA-03D83FA03E71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
